@@ -6,3 +6,6 @@
 .list-group-item {
     width: 150px;
 }
+.my-delete-hr {
+    border-top: 0px solid black;
+}
